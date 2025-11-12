@@ -38,6 +38,8 @@ items:
  - lapce/lapce
  - zed-industries/zed
  - KDE/kate
+ - pulsar-edit/pulsar
+ - voideditor/void
 
 display_name: Text editors
 created_by: leereilly

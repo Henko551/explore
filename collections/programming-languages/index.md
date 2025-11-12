@@ -46,7 +46,7 @@ items:
 - ziglang/zig
 - HaxeFoundation/haxe
 - livecode/livecode
-- coq/coq
+- rocq-prover/rocq
 - vlang/v
 - dart-lang/sdk
 - pharo-project/pharo
@@ -65,9 +65,9 @@ items:
 - Gwion/Gwion
 - carbon-language/carbon-lang
 - imba/imba
-- Jackojc/cane
+- tarpit-collective/cane
 - cython/cython
-- modular/max
+- modular/modular
 - odin-lang/Odin
 - apache/groovy
 - ValeLang/Vale
@@ -76,4 +76,5 @@ items:
 display_name: Programming languages
 created_by: leereilly
 ---
-A list of programming languages that are actively developed on GitHub
+
+A list of actively developed programming languages that are found on GitHub.
